@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![白兔](https://www.baidu.com/img/bd_logo1.png)
